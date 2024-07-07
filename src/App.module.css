@@ -1,0 +1,21 @@
+.app {
+  margin: 20px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  height: 700px;
+}
+
+.pagination {
+  margin-top: 20px;
+}
+
+.search {
+  margin-bottom: 20px;
+  width: 300px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
